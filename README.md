@@ -1,5 +1,6 @@
-#Make your Fave Activity
+# Make your Fave Activity
 
-This is my project for the final CSS activity.  I will be doing a mock of the desktop version of  [airbnb](https://www.airbnb.com/)
+This is my project for the final CSS activity.
+[https://sportkilt.com](./assets/sportkilt.com_.png)
 
-![Landing page of airbnb] (CSS-Make-Fave\airbnb-screengrab.png) 
+ 

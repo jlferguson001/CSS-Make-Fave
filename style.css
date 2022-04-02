@@ -1,0 +1,75 @@
+header{
+    background-color: #05310B;
+    color: white;
+    height: 3em;
+     
+}     
+
+h6{
+ padding-top: .75em; 
+ font-size: small;  
+}
+
+.nav-link{
+    color: white;
+}
+
+ .carousel img{
+    object-fit: cover;
+    object-position: center;
+    height: 60vh;
+    overlfow: hidden;
+    
+      
+}
+
+
+.box{
+    background-color: #05310B;
+    color: #a7ac2d;
+    text-align: center;
+    padding-bottom: 1em;
+    margin-bottom: 5em;
+}
+
+h5{
+    padding-top: 1em;
+    font-family: Eagle Lake, cursive;
+}
+
+h1{
+    text-align: center;
+    font-family: Eagle Lake, cursive;
+    font-size: 100px;
+    color:#2b8337;
+}
+
+h2{
+    text-align: center;
+    font-family: Eagle Lake, cursive;
+    font-size: 50px;
+    color:#05310B;
+
+}
+p {
+    text-align: center;
+}
+
+.rowtwopics{
+    display: flex;
+    flex-wrap:wrap;
+}
+
+#hero {
+    position: relative;
+    text-align: center;
+  
+  }
+  
+  #hero h2 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+  }
